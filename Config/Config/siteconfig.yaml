@@ -1,0 +1,18 @@
+---
+production:
+    port : "8000"
+    database :
+        host: "mongo"
+        port: "5984"
+        user:
+        password:
+        database: "production"
+
+development:
+    port : "8000"
+    database :
+        host: "mongo"
+        port: "5984"
+        user:
+        password:
+        database: "development"

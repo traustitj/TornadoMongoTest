@@ -1,0 +1,17 @@
+env
+*.pyc
+*.swp
+old
+.DS_Store
+*.egg
+*.egg-info
+*.egg-info/*
+eggs
+develop-eggs
+./thirdparty/PIL/PIL.egg-info
+SOURCES.txt
+prepros.cfg
+node_modules
+.vscode/*
+.idea/*
+.vs
