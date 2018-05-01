@@ -1,0 +1,51 @@
+[
+    {
+        "_id": ObjectId("53963e908fba26447f61c48e"),
+        "meta_description": "The best way to see Iceland, away from the crowds, is a private super jeep tour, on modified 4x4 trucks.",
+        "meta_tags": "Iceland tours, best tour in Iceland, best tour company in Iceland, private tours, 4x4 tours, see Iceland,",
+        "name": "4X4 Superjeep day tours",
+        "alt_title": "4x4-superjeep-day-tours"
+    },
+    {
+        "_id": ObjectId("53963e908fba26447f61c48f"),
+        "meta_description": "Overnight tours and comfortable tours in Iceland, with a private guide. We take care of everything.",
+        "meta_tags": "Overnight tours, Iceland tours, 4x4 tours, best tours, super jeep tours, multi-day tours, package tours,",
+        "name": "Multi-day Tours",
+        "alt_title": "multi-day-private-tours"
+    },
+    {
+        "_id": ObjectId("53963e908fba26447f61c491"),
+        "meta_description": "What to do in Iceland? We can recommend the best activities and make sure you have the time of your life.",
+        "meta_tags": "Iceland tours, tours in Iceland, activities in Iceland, what to do in Iceland, suggest activities in Iceland, fun tours,",
+        "name": "Activities",
+        "alt_title": "activities"
+    },
+    {
+        "_id": ObjectId("55dee26689553c00010b50f8"),
+        "meta_description": "Accommodation and Hotel stay in Iceland",
+        "meta_tags": "hotels in Iceland, accommodations, guesthouses, bnb, bed and breakfast in Reykjavik,",
+        "name": "Accommodation",
+        "alt_title": "accommodation"
+    },
+    {
+        "_id": ObjectId("55dee26b89553c00010b50f9"),
+        "meta_description": "Transfer to different locations",
+        "meta_tags": "transfer, iceland tours,",
+        "name": "Transfer",
+        "alt_title": "transfer"
+    },
+    {
+        "_id": ObjectId("55f8061843afbc00011a134e"),
+        "meta_description": "Shared Multi day and private tours",
+        "meta_tags": "Iceland tours, 4x4 tours, multi day 4x4 tours, private tours, super jeep tours, escorted tours,",
+        "name": "Multi Day Tours",
+        "alt_title": "multi-day-tours"
+    },
+    {
+        "_id": ObjectId("57706318f0455800013ee7fd"),
+        "meta_description": "",
+        "meta_tags": "",
+        "name": "Minibus",
+        "alt_title": "minibus"
+    }
+]
