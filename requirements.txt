@@ -2,11 +2,9 @@
 -e Webserver
 -e Config
 -e Database
-Pillow==2.6.1
-PyYAML==3.11
+PyYAML==6.0
 bcrypt==1.0.2
 gnureadline==6.3.3
-lxml==3.4.0
 mongo==0.2.0
 motor==0.3.3
 pycparser==2.10
